@@ -1,7 +1,7 @@
 # Mergesort
 
 
-This class holds my mergesort.
+src/com/company/Main.java contains my mergesort.
 It's a recursive divide and conquer algorithm that sorts an integer array
  
 The worst case and average case time complexities are both O(NlogN).
