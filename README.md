@@ -27,4 +27,4 @@ operations:
 
 print -> prints array
 
-mergesort -> returns sorted array using mergesort given an unsorted (or sorted) array
+mergesort -> returns sorted array using mergesort given an unsorted (or sorted) array. Type "<sorted_array> = mergesort(<unsorted_array>);" to use mergesort.
